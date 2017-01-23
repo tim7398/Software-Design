@@ -1,0 +1,9 @@
+c:\users\tim\documents\visual studio 2015\Projects\Lab2\Lab2\bin\Debug\Lab2.exe.config
+c:\users\tim\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+c:\users\tim\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+c:\users\tim\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+c:\users\tim\documents\visual studio 2015\Projects\Lab2\Lab2\bin\Debug\Lab2.exe
+c:\users\tim\documents\visual studio 2015\Projects\Lab2\Lab2\bin\Debug\Lab2.pdb
+c:\users\tim\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.exe
+c:\users\tim\documents\visual studio 2015\Projects\Lab2\Lab2\obj\Debug\Lab2.pdb

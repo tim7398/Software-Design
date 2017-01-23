@@ -1,0 +1,14 @@
+c:\users\tim\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Lab1.exe.config
+c:\users\tim\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Lab1.exe
+c:\users\tim\documents\visual studio 2015\Projects\Lab1\Lab1\bin\Debug\Lab1.pdb
+c:\users\tim\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+c:\users\tim\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+c:\users\tim\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+c:\users\tim\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.exe
+c:\users\tim\documents\visual studio 2015\Projects\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Tim\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Tim\Desktop\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Tim\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Tim\Desktop\software design\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Tim\Desktop\software design\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Tim\Desktop\software design\Lab1\Lab1\obj\Debug\Lab1.pdb

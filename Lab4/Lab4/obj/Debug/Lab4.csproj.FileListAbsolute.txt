@@ -1,0 +1,18 @@
+c:\users\tim\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+c:\users\tim\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+c:\users\tim\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+c:\users\tim\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+c:\users\tim\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+c:\users\tim\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+c:\users\tim\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+c:\users\tim\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Tim\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Tim\Desktop\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Tim\Desktop\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Tim\Desktop\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Tim\Desktop\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Tim\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Tim\Desktop\Lab4\Lab4\bin\Debug\Lab4.pdb

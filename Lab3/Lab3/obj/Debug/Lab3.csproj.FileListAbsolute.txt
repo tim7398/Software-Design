@@ -1,0 +1,27 @@
+c:\users\tim\documents\visual studio 2015\Projects\Lab3\Lab3\bin\Debug\Lab3.exe.config
+c:\users\tim\documents\visual studio 2015\Projects\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2015\Projects\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+c:\users\tim\documents\visual studio 2015\Projects\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+c:\users\tim\documents\visual studio 2015\Projects\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+c:\users\tim\documents\visual studio 2015\Projects\Lab3\Lab3\bin\Debug\Lab3.exe
+c:\users\tim\documents\visual studio 2015\Projects\Lab3\Lab3\bin\Debug\Lab3.pdb
+c:\users\tim\documents\visual studio 2015\Projects\Lab3\Lab3\obj\Debug\Lab3.exe
+c:\users\tim\documents\visual studio 2015\Projects\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Tim\Desktop\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Tim\Desktop\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Tim\Desktop\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Tim\Desktop\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Tim\Desktop\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Tim\Desktop\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Tim\Desktop\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Tim\Desktop\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\Tim\Desktop\software design\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Tim\Desktop\software design\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Tim\Desktop\software design\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Tim\Desktop\software design\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Tim\Desktop\software design\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Tim\Desktop\software design\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\software design\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Tim\Desktop\software design\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Tim\Desktop\software design\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
