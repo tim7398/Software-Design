@@ -1,0 +1,10 @@
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab8.Form1.resources
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab8.csproj.GenerateResource.Cache
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Lab8.exe.config
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Lab8.exe
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Lab8.pdb
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab8.exe
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab8.pdb
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lab8.ModalWindow.resources
